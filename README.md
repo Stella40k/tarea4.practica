@@ -1,1 +1,1 @@
-# Trabajo Práctico Integrador II - Dario Ezequiel Ruiz Diaz
+# Trabajo Práctico Integrador 2
